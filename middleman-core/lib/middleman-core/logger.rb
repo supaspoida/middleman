@@ -1,5 +1,5 @@
 # Use the Ruby/Rails logger
-require 'active_support/core_ext/logger'
+require 'active_support/logger'
 require 'thread'
 
 module Middleman
